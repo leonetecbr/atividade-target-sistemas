@@ -1,6 +1,6 @@
 def is_in_fibonacci(n):
     fibonacci = [0, 1]
-
+    # Gera a sequência de Fibonacci até passar do número n
     while fibonacci[len(fibonacci) - 1] < n:
         fibonacci.append(fibonacci[len(fibonacci) - 1] + fibonacci[len(fibonacci) - 2])
 
