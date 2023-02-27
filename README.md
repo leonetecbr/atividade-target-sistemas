@@ -40,7 +40,7 @@ Excutar no terminal:
 php questao_3.php
 ```
 
-- [ ] **4** — Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
+- [x] **4** — Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 
 SP – R$67.836,43<br>
 RJ – R$36.678,66<br>
@@ -48,12 +48,18 @@ MG – R$29.229,88<br>
 ES – R$27.165,48<br>
 Outros – R$19.849,53<br>
 
-- [ ] Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve no
+- Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve no
   valor total mensal da distribuidora.
 
+Resolução em: [questao_4.php](questao_4.php)
 
-- [ ] **5** 
-- — Escreva um programa que inverta os caracteres de um string.
+Excutar no terminal:
+
+```bash
+php questao_4.php
+```
+
+- [ ] **5** — Escreva um programa que inverta os caracteres de um string.
 
 **IMPORTANTE:**
 
