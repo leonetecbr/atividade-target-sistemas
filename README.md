@@ -59,9 +59,17 @@ Excutar no terminal:
 php questao_4.php
 ```
 
-- [ ] **5** — Escreva um programa que inverta os caracteres de um string.
+- [x] **5** — Escreva um programa que inverta os caracteres de um string.
 
 **IMPORTANTE:**
 
 - Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 - Evite usar funções prontas, como, por exemplo, reverse;
+
+Resolução em: [questao_5.js](questao_5.js)
+
+Excutar no terminal:
+
+```bash
+node questao_5.js
+```
